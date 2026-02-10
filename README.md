@@ -236,10 +236,10 @@ La aplicación está diseñada para funcionar sin conexión:
 
 ## Próximas Funcionalidades
 
-- [ ] Reconocimiento automático de objetos con IA
+- [x] Reconocimiento automático de objetos con IA
 - [ ] Compartir inventarios entre usuarios
 - [ ] Códigos QR para items
-- [ ] Reportes personalizados
+- [x] Reportes personalizados
 - [ ] Modo oscuro automático
 - [ ] Widgets para pantalla de inicio
 - [ ] Backup y restauración completa
@@ -325,7 +325,7 @@ MIT License - Ver archivo LICENSE para más detalles
 
 Para reportar bugs o solicitar características:
 - Issues en GitHub
-- Email: soporte@inventariointeligente.com
+- Email: cgranda.567@gmail.com
 
 ## Créditos
 
