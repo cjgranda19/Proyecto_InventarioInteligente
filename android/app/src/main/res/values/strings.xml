@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventario Inteligente</string>
+    
+    <!-- Facebook Configuration -->
+    <string name="facebook_app_id">1583640232769412</string>
+    <string name="facebook_client_token">1e21b32943271fd4011574576945fda2</string>
+    <string name="fb_login_protocol_scheme">fb1583640232769412</string>
+</resources>
